@@ -18,7 +18,7 @@
 
 - 🌱  **After Mern I’m currently learning and im trying to explore the Prompt Engineering as AI is the New Future and every developer should also be a good Prompt Engineer**
 
-- 📫 How to reach me **praveenkr0812@gmail.com**
+- 📫 How to reach me **email - praveenkr0812@gmail.com **
 
 </br>
 
