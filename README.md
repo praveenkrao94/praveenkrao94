@@ -21,10 +21,7 @@
 - 📫 How to reach me **praveenkr0812@gmail.com**
 
 </br>
-<p align="center">
 
-  <img src="https://i.pinimg.com/564x/a5/16/c7/a516c7c689e3ac364619155a666074cd.jpg" >
-</p>
 
 
 
