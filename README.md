@@ -1,9 +1,8 @@
 
-<p align="center">
-  <img src="https://github.com/praveenkrao94/File_uploader/assets/126244668/04c71e66-bcfb-4c47-911e-72823d027af3" width="100%">
-</p>
 
 
+
+![portfolio hero page](https://github.com/praveenkrao94/praveenkrao94/assets/126244668/4163d521-19f3-4df7-8737-214d820efc70)
 
 
 
