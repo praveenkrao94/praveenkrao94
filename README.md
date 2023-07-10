@@ -16,7 +16,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar Rao</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 
-- 🌱 I’m currently learning **After Mern im trying to explore the Prompt Engineering**
+- 🌱  **After Mern I’m currently learning and im trying to explore the Prompt Engineering as AI is the New Future and every developer should also be a good Prompt Engineer**
 
 - 📫 How to reach me **praveenkr0812@gmail.com**
 
