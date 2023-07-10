@@ -1,6 +1,10 @@
+
 <p align="center">
-  <img src="![pinterestdownloader com-1688986101 785306](https://github.com/praveenkrao94/File_uploader/assets/126244668/457e05cf-57f5-4ee2-8b1d-d3bd3e0b9d5d)">
+  <img src="https://github.com/praveenkrao94/File_uploader/assets/126244668/04c71e66-bcfb-4c47-911e-72823d027af3" width="100%">
 </p>
+
+
+
 
 
 
